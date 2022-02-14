@@ -1,14 +1,5 @@
 # Hepsiemlak-Java-Spring-Bootcamp-HW2
 
+hepsiemlak klasöründe daha az nesne ile çalıştım, factory patterni basit şekilde ele almaya çalıştım. 
 
-• Java dünyasındaki framework’ler ve çözdükleri problemler nedir? Kod Örneklendirini de 
-içermelidir. 
-
-• Spring frameworkünün kullandığı design patternlar neler?
-
-• Creational Patterns neler? Önceki ödevde oluşturulan nesnelerinizi factory Design patterni ile 
-oluşacak şekilde düzenleyin.
-
-3 konu da makale olarak yazılmalı ve repo’larınızın içerisine pdf olarak veya .md formatında 
-yazılmalıdır. Ayrıca medium hesabınız yoksa oluşturup, teslim tarihi sonrasında hesabınızdan 
-paylaşmanız gereklidir. 
+hepsiemlak2 klasöründeki yapıyı yeni kurdum, kurumsal müşteri ve bireysel müşteri,konut ilanı ve işyeri ilanı olarak ele almaya çalıştım. 
